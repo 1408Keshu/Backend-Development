@@ -1,0 +1,2 @@
+# Backend development
+Back-end development is the work done on the server-side of a website or app. It includes building databases, writing APIs, and managing servers. Back-end developers ensure that the website functions correctly and that it can handle user requests
